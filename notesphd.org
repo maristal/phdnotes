@@ -1,0 +1,10 @@
+* PhD Notes and TODO
+
+* Todo [0/1]
+	- [ ] Start working on the BLM paper
+
+
+* BLM Paper TODO and Notes [0/1]
+  - [ ] Compare BLM and FLUKA data
+    - [ ] Ask Adam if he has done the new calculations
+  
